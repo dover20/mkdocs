@@ -4,6 +4,10 @@ on:
     branches:
       - master 
       - main
+    paths:
+      - 'docs/**'           # Any changes in docs folder
+      - 'mkdocs.yml'        # Changes to config file
+      - 'overrides/**'      # Changes to overrides
 permissions:
   contents: write
 jobs:
