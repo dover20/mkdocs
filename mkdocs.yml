@@ -11,8 +11,6 @@ theme:
     - search.highlight
     - search.share
   palette:
-    primary: black
-    accent: blue
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
@@ -21,12 +19,16 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: black
+      accent: blue
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: black
+      accent: blue
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
@@ -40,4 +42,3 @@ plugins:
   - optimize
   - tags
   - typeset
-
