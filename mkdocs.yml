@@ -39,6 +39,5 @@ plugins:
   - offline
   - search
   - meta
-  - optimize
   - tags
   - typeset
