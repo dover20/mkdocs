@@ -34,7 +34,7 @@ theme:
 
 markdown_extensions:
   # Tool tips
-  - content.tooltips
+  # - content.tooltips
   # Content tabs
   - pymdownx.tabbed:
       alternate_style: true
