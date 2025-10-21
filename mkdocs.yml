@@ -4,14 +4,12 @@ theme:
   name: material
   font:
     code: Source Code Pro
-
   features:
     - navigation.instant
     - navigation.instant.progress
     - search.suggest
     - search.highlight
     - search.share
-
   palette:
     primary: black
     accent: blue
@@ -33,7 +31,7 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
-repo_url: https://github.com/dover20/mkdocs
+# repo_url: https://github.com/dover20/mkdocs
 
 plugins:
   - offline
