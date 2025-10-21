@@ -38,6 +38,3 @@ theme:
 plugins:
   - offline
   - search
-  - meta
-  - tags
-  - typeset
