@@ -1,7 +1,9 @@
+  GNU nano 8.4                                                                     mkdocs.yml *
 site_name: Dylan's Docs
 
 theme:
   name: material
+  custom_dir: overrides
   font:
     code: Source Code Pro
   features:
@@ -10,6 +12,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -30,6 +33,39 @@ theme:
 
 # repo_url: https://github.com/dover20/mkdocs
 
+markdown_extensions:
+  # Tool tips
+  - content.tooltips
+  # Content tabs
+  - pymdownx.tabbed:
+      alternate_style: true
+  # tables
+  - tables
+  # Grids
+  - attr_list
+  - md_in_html
+  - def_list
+  # Lists
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  # Tooltips
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+  # formatting / highlighting
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  # Footnotes
+  - footnotes
+  # Mermaid diagrams
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
   - offline
   - search
