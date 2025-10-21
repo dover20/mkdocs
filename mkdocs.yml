@@ -1,4 +1,6 @@
 site_name: Dylan's Docs
+site_description: Documentation
+site_url: https://dover20.github.io/mkdocs
 
 theme:
   name: material
@@ -68,3 +70,4 @@ markdown_extensions:
 plugins:
   - offline
   - search
+  - blog
