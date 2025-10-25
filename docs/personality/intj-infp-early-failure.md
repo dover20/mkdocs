@@ -1,4 +1,4 @@
-# INFJ/INFP Underachiever - Redemption Arc
+# INTJ/INTP School Struggles and Career Success Pattern
 
 ## The Question
 
