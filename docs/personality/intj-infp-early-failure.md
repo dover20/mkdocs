@@ -15,6 +15,7 @@ Yes, this is actually a **very common pattern** for mixed INTJ/INTP types, thoug
 ### The Structural Mismatch
 
 **Traditional schools reward:**
+
 - Compliance and following directions without question
 - Completing repetitive busywork
 - Social conformity and group participation
@@ -23,6 +24,7 @@ Yes, this is actually a **very common pattern** for mixed INTJ/INTP types, thoug
 - Arbitrary deadlines and rules without clear logic
 
 **INTJ/INTP types need:**
+
 - Understanding *why* before complying
 - Intellectual challenge over repetition
 - Autonomy and independent thinking
@@ -35,6 +37,7 @@ This creates **fundamental incompatibility** that often manifests as:
 ### Common School Failure Patterns
 
 **The "Underachiever" Label:**
+
 - Incredibly bright but gets poor grades
 - "Not living up to potential" becomes constant refrain
 - Does brilliantly on tests without studying, fails homework completion
@@ -42,6 +45,7 @@ This creates **fundamental incompatibility** that often manifests as:
 - Teachers frustrated: "If they'd just apply themselves..."
 
 **The Authority Challenger:**
+
 - Questions teachers constantly about arbitrary rules
 - Asks "but why?" until teachers get frustrated
 - Gets labeled as "difficult," "argumentative," or "disrespectful"
@@ -49,6 +53,7 @@ This creates **fundamental incompatibility** that often manifests as:
 - May get detention/disciplinary issues for "insubordination"
 
 **The Social Outcast:**
+
 - Feels completely isolated among peers interested in shallow topics
 - Can't engage in small talk about sports, gossip, social drama
 - Labeled as "weird," "nerdy," "antisocial"
@@ -56,12 +61,14 @@ This creates **fundamental incompatibility** that often manifests as:
 - Bullied for being "different" or "too smart"
 
 **The Perfectionist Procrastinator:**
+
 - Analysis paralysis prevents starting assignments
 - Nothing feels "good enough" to turn in
 - For INTPs especially: mentally complete projects but never physically finish them
 - For INTJs: create elaborate plans but can't execute on "imperfect" options
 
 **The Absent-Minded Professor:**
+
 - Forgets deadlines while absorbed in intellectual pursuits
 - Loses track of assignments and due dates
 - Brilliant in class discussions but can't remember to turn in homework
@@ -74,24 +81,28 @@ This creates **fundamental incompatibility** that often manifests as:
 The same person who "failed" in school often **thrives spectacularly** once they find work that provides:
 
 **1. Intellectual Autonomy**
+
 - Finally can approach problems their own way
 - No one checking that they "showed their work" in prescribed format
 - Results matter more than process
 - Can explore rabbit holes that lead to breakthroughs
 
 **2. Genuine Challenge**
+
 - Complex problems that actually require deep thinking
 - Not busywork designed to keep 30 kids occupied
 - Problems where their pattern recognition gives real advantage
 - Work where their overthinking becomes strategic analysis
 
 **3. Meritocracy Over Politics**
+
 - Competence matters more than social games
 - Can avoid office politics in many tech/research roles
 - Remote work removes forced socialization
 - Judged on output rather than conformity
 
 **4. Intrinsic Motivation**
+
 - Finally doing work that genuinely matters
 - Can see direct impact of their contributions
 - Solving real problems, not artificial classroom exercises
