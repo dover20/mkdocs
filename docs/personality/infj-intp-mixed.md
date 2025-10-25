@@ -1,4 +1,4 @@
-# Key Highlights: Mixed INTJ/INTP Personality Career Guide (Enhanced)
+# Key Highlights: Mixed INTJ/INTP Personality Career Guide
 
 ## Core Personality Traits & Cognitive Functions
 
@@ -27,7 +27,7 @@
 
 ## Comprehensive Strengths
 
-### INTJ Strengths (from 16personalities)
+### INTJ Strengths
 
 ✅ **Rational & Informed**: Base beliefs on evidence, logic, and rationality rather than convention
 
@@ -43,7 +43,7 @@
 
 ✅ **Confident Decision-Making**: Trust their judgment even in difficult situations
 
-### INTP Strengths (from 16personalities)
+### INTP Strengths
 
 ✅ **Open-Minded & Flexible**: Driven by curiosity; rarely afraid to shift perspectives
 
@@ -71,7 +71,7 @@
 
 ## Comprehensive Weaknesses
 
-### INTJ Weaknesses (from 16personalities)
+### INTJ Weaknesses
 
 ❌ **Arrogant**: Self-assurance blinds them to useful input; dismiss those deemed intellectually inferior
 
@@ -89,7 +89,7 @@
 
 ❌ **Emotional Suppression**: See processing emotions as self-indulgent distraction from goals
 
-### INTP Weaknesses (from 16personalities)
+### INTP Weaknesses
 
 ❌ **Disconnected**: Get lost in their own train of thought even with others present
 
